@@ -42,7 +42,7 @@ I experimented with three neural network architectures:
 ### Visualizations
 Below are the loss curves for Model 1 (best performing):
 
-![Loss Curve](path/to/loss_curve_model1.png)
+![Loss Curve](https://github.com/konynour/Modeling-Linear-Regression/blob/main/Screenshot_20.png)
 
 And a plot of predictions vs. ground truth:
 
@@ -62,14 +62,14 @@ pip install tensorflow numpy matplotlib scikit-learn
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
-   cd house-price-prediction
+   git clone https://github.com/konynour/Modeling-Linear-Regression.git
+   cd MODELING LINEAR REGRESSION
    ```
 
 2. **Run the Code**:
-   - Open `house_price_prediction.ipynb` in Jupyter Notebook or run the Python script:
+   - Open `0x.ipynb` in Jupyter Notebook or run the Python script:
      ```bash
-     python house_price_prediction.py
+     python 0x.py
      ```
    - The script will train the model, display loss curves, and generate predictions.
 
@@ -101,29 +101,3 @@ pip install tensorflow numpy matplotlib scikit-learn
   - Apply data normalization for better convergence.
   - Experiment with dropout or batch normalization.
 
-## 🤝 Contributing
-
-I’d love for you to contribute to this project! Feel free to:
-- Fork the repository and submit pull requests.
-- Suggest improvements like new architectures or preprocessing techniques.
-- Report bugs or issues via GitHub Issues.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙌 Acknowledgments
-
-- Inspired by deep learning tutorials and TensorFlow documentation.
-- Thanks to the open-source community for tools like TensorFlow and Keras.
-- Dataset: Boston Housing dataset from `sklearn.datasets`.
-
----
-
-**Connect with me!**  
-Feel free to check out my other projects or reach out:  
-- GitHub: [your-username](https://github.com/your-username)  
-- Email: your.email@example.com  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
-Happy coding! 🚀
