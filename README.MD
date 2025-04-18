@@ -46,8 +46,8 @@ Below are the loss curves for Model 1 (best performing):
 
 And a plot of predictions vs. ground truth:
 
-![Predictions Plot](https://github.com/konynour/Modeling-Linear-Regression/blob/main/Screenshot_2.png)
-![ground truth](https://github.com/konynour/Modeling-Linear-Regression/blob/main/Screenshot_25.png)
+![Predictions Plot](https://github.com/konynour/Modeling-Linear-Regression/blob/main/images/Screenshot_2.png)
+![ground truth](https://github.com/konynour/Modeling-Linear-Regression/blob/main/images/Screenshot_25.png)
 
 
 
