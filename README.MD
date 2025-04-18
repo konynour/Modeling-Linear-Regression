@@ -42,7 +42,7 @@ I experimented with three neural network architectures:
 ### Visualizations
 Below are the loss curves for Model 1 (best performing):
 
-![Loss Curve](https://github.com/konynour/Modeling-Linear-Regression/blob/main/Screenshot_3.png)
+![Loss Curve](https://github.com/konynour/Modeling-Linear-Regression/blob/main/images/Screenshot_3.png)
 
 And a plot of predictions vs. ground truth:
 
